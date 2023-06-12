@@ -1,5 +1,5 @@
-### Bard
-_# Google Bard AI into a native android application._
+# Bard
+# _Google Bard AI into a native android application._
 This application is built with **Flutter** codebase.
 **_No need to open a browser again to use Google Bard_**
 
