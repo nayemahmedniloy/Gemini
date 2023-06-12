@@ -1,0 +1,8 @@
+Flutter Application Name Change Method :
+
+Inside **debug, main & profile**
+
+<application
+    android:name="io.flutter.app.FlutterApplication"
+    android:label="Your App Name"
+    tools:replace="android:label" />
