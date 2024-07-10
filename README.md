@@ -1,16 +1,22 @@
-# Bard
-# _Google Bard AI into a native android application._
-This application is built with **NATIVE REACT** codebase.  
-**_No need to open a browser again to use Google Bard AI_**
-**_Use all funtionalities of Google Bard AI inside the app_**
+![gemini](https://github.com/nayemahmedniloy/Gemini/assets/71997569/d9c6c954-4488-4c80-9660-c85380377d5d)
+# Google_Gemini `Google's largest and most capable AI model`
+A native android application to use Google Gemini in `WEB` version.
 
-![photo_2023-09-17_08-54-07](https://github.com/nayemahmedniloy/Bard/assets/71997569/bbbfbea4-4c43-4a42-8fcb-2a4f277ffcc8)
-![photo_2023-09-17_08-54-13](https://github.com/nayemahmedniloy/Bard/assets/71997569/4d284062-edc0-4a48-bfde-3ca6b89b623d)
-![photo_2023-09-17_08-54-17](https://github.com/nayemahmedniloy/Bard/assets/71997569/5b84822f-96c3-401e-9982-f2eeba11528d)
-![photo_2023-09-17_08-54-21](https://github.com/nayemahmedniloy/Bard/assets/71997569/444339ec-9dda-42de-a25a-891c0e9dc454)
-![photo_2023-09-17_08-54-25](https://github.com/nayemahmedniloy/Bard/assets/71997569/be4d86d3-f5fa-4d21-a4bd-1f1fed6e9d62)
+Experience the power of Google AI with Free & Advanced.
+![gemini-models](https://github.com/nayemahmedniloy/Gemini/assets/71997569/31313be7-896e-4908-8c74-1c34b2766a1b)
 
-# ENJOY ❤️
-MADE WITH THE ❣️ OF **_BANGLADESH_** 
+<div><p>To Download the android applications:</p><a href="https://github.com/nayemahmedniloy/Gemini/releases/">visit</a></div>
 
+## Available Google AI Models
 
+- `Ultra, Pro, Flash, Nano`
+
+## Features
+- `Developed with React Native`
+- `Native Android Application`
+- `Get access to Google Gemini Web in a native android application`
+## License
+
+MIT License. See `LICENSE` for more information.
+
+Made with ❤ of NAYEM.
